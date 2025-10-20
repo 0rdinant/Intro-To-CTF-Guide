@@ -38,7 +38,9 @@ These website great "hold-your-hand" intro courses to various cybersecurity topi
 
 ## Youtube channels:
 [LowLevelLearning](https://www.youtube.com/@LowLevelTV) - bite-sized videos covering lots of cybersecurity topics.
+
 [LiveOverflow](https://www.youtube.com/@LiveOverflow) - longer videos exposing various exploits and vulnerabilities. Check out his most popular videos!
+
 [stacksmashing](https://www.youtube.com/@StackSmashing) - In-depth analyses on reverse-engineering and hardware security.
 
 ## Additional resources:
