@@ -23,7 +23,7 @@ https://www.kali.org/docs/virtualization/import-premade-vmware/
 
 # 2. Gather your resources:
 ## PicoCTF
-- [Read a bit of the PicoCTF Primer](https://play.picoctf.org/practice). If long written texts aren't your thing, check out the [Resources section](https://picoctf.org/resources.html)!
+- [Read a bit of the PicoCTF Primer](https://primer.picoctf.com/). If long written texts aren't your thing, check out the [Resources section](https://picoctf.org/resources.html)!
 
 - [Sign up for PicoGym](play.picoctf.org/)
 
